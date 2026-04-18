@@ -1,3 +1,5 @@
+READ THIS FILE ON CODE TAB OR ELSE IT WONT WORK for some reason idk
+
 How to import a level into geometrydash.com
 
 Step 1: If your on Windows/Linux, Click Ctrl+Shift+I, On MacOS click Cmd+Option+I
